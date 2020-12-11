@@ -1,6 +1,9 @@
 ### Hello 👋
 
-Here are some ideas to get you started:
+I'm Ouadie, a passionate software engineer, I love share knowledge and help people grow
+
+
+❯ #MicrosoftMVP ❯ organiser of @ngMorocco @AwsMorocco @JSRockStarShow ❯🥋 TKD fighter
 
 - 🔭 I’m currently helping my customers building cloud 
 - 🌱 I’m currently learning ...
